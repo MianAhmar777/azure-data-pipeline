@@ -33,3 +33,10 @@ Repository Structure
 
 Author
 Ahmar Bin Tahir
+
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/471fda2f-a07d-4151-bfc4-fe61ded0761c" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5833481e-78cb-4a58-9365-c45a0b0cb3e2" />
+<img width="975" height="503" alt="image" src="https://github.com/user-attachments/assets/44496548-7664-4b04-a026-268468e2ef32" />
+
+
